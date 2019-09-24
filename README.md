@@ -1,2 +1,2 @@
-# spring-config-repo
+# config-repo
 Repositório de arquivos de configuração
